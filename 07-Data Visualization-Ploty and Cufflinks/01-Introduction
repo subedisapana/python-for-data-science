@@ -1,0 +1,16 @@
+Introduction
+
+
+Plotly is a Python library for creating interactive visualizations and data dashboards. It allows users to create a wide range of plots, including scatter plots, line plots, bar plots, heatmaps, and more. Plotly makes it easy to create interactive charts and graphs that can be embedded in web pages, Jupyter notebooks, and other applications.
+
+
+
+
+Cufflinks is a Python library that provides an easy way to connect Plotly with Pandas dataframes. It allows users to create Plotly visualizations directly from Pandas dataframes, without the need for any additional coding. Cufflinks provides a simple syntax for creating a variety of Plotly charts and graphs, including scatter plots, line plots, bar charts, and more. Cufflinks makes it easy for users to create interactive visualizations that can be shared and used by others. Used for 3D visualization.
+
+-Before using these libraries, you need to install them.
+
+For plotly : pip install plotly
+For Cufflinks: pip install cufflinks
+
+
