@@ -1,0 +1,41 @@
+Machine Learning is a subset of artificial Intelligence that involves the use of statistical techniques and algorithms to enable computer systems to learn and improve from experience without being explicitly programmed.
+
+In other words,  the computer system is trained on a large dataset and learns to recognize patterns, make predictions or decisions, and improve its performance over time.
+
+There are three main types of machine learning: supervised learning, unsupervised learning, and reinforcement learning. 
+
+1) Supervised learning: 
+	In this learning, the model is trained on the labeled dataset,  where the desired output or variable is already known.The goal of supervised learning is to learn a mapping function from input variables to output variables by minimizing the difference between the predicted and actual outputs.
+	The labeled dataset used for training typically consists of pairs of input and 	output data, where the input data is fed to the model, and the model produces an output prediction. The difference between the predicted output and the actual output is measured using a loss function, which quantifies the error between the predicted and actual output.
+
+    The model's parameters are then adjusted through an optimization algorithm, such as gradient descent, to minimize the loss function and improve the accuracy of the predictions. Once the model has been trained, it can be used to make predictions on new input data.
+
+    Supervised learning algorithms include regression, where the output variable is continuous, and classification, where the output variable is discrete. Some examples of supervised learning applications include image recognition, speech 	recognition, and recommendation systems.
+
+2) Unsupervised Learning:
+	Unsupervised learning is a type of machine learning where the computer system is trained on an unlabeled dataset, meaning there is no predetermined output or target variable. Instead, the system is left to find patterns, structures, and 	relationships within the data on its own. The main goal of unsupervised learning is to discover hidden patterns or groupings in the data, without any prior 	knowledge of what those patterns might be.
+
+There are several types of unsupervised learning techniques, including:
+
+Clustering: This involves grouping similar data points together based on their characteristics.
+
+Dimensionality reduction: This technique involves reducing the number of features in a dataset while retaining as much information as possible.
+
+Anomaly detection: This technique involves identifying data points that are significantly different from the rest of the dataset.
+
+Association rule mining: This technique involves identifying relationships between variables in a dataset, such as items frequently purchased together in a market basket analysis.
+
+Unsupervised learning is used in a wide range of applications, such as customer segmentation, image and speech recognition, and anomaly detection in cybersecurity. It can also be used as a preprocessing step for supervised learning tasks, to help identify important features in the data.
+
+
+3) Reinforcement Learning:
+    Reinforcement learning is a type of machine learning where an agent learns to make decisions by interacting with an environment and receiving feedback in the form of rewards or penalties. The goal of the agent is to learn a policy that maximizes its cumulative reward over time.
+
+    In reinforcement learning, the agent observes the current state of the environment, takes an action, and receives a reward based on the action taken and the state of the environment. The agent's objective is to learn a policy, which is a mapping from states to actions, that maximizes the expected cumulative reward.
+
+    One important concept in reinforcement learning is the trade-off between exploration and exploitation. The agent needs to explore the environment to learn about the rewards associated with different actions, but it also needs to exploit its current knowledge to maximize its reward. Balancing exploration and exploitation is a key challenge in reinforcement learning.
+
+    Reinforcement learning has been used in a variety of applications, such as game playing, robotics, and autonomous vehicles. It has also been used to develop algorithms for optimizing complex systems, such as energy management systems and supply chain management.
+
+Machine learning has a wide range of applications, including image and speech recognition, natural language processing, predictive modeling, and recommendation systems.
+
